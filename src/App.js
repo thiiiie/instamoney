@@ -1,4 +1,4 @@
-import logo from '../public/images/tiotaco1.jpg';
+import logo from './tiotaco1.jpg';
 import './App.css';
 
 function App() {
